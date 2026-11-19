@@ -1,6 +1,6 @@
 {
   "name": "@liuhange/dsh-incident-full-chain",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Incident full chain inside DSH: on-call triage, mitigation timeline, and an auto-generated postmortem.md with MTTR. 故障全链路：值班定性、记录缓解动作、一键沉淀复盘报告。",
   "keywords": [
     "dsh",
